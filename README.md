@@ -1,6 +1,6 @@
-A simple analog waveform generator designed using LM741 operational amplifiers.
-This project was initially developed in Proteus Design Suite as part of an academic project.
-Later, the same project was completely recreated in KiCad EDA as a personal learning project to practice:
+# A simple analog waveform generator designed using LM741 operational amplifiers.
+This project was initially developed in Proteus Professional as part of an academic project.
+Later, the same project was completely recreated in KiCad-9 as a personal learning project to practice:
 1. schematic design,
 2. PCB layout,
 3. component placement,
